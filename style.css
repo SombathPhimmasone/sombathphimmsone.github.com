@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.top-bar {
+    background: blue;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+.top-bar a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+}
+.logo {
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+}
